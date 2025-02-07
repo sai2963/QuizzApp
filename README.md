@@ -10,7 +10,7 @@ Welcome to **QuizzApp**, a dynamic and interactive quiz platform built with Reac
 - **Responsive Design:** Optimized for both desktop and mobile views.
 
 ## Demo
-Check out the live version of the app [here](https://quizzapp.vercel.app/) (if hosted).
+Check out the live version of the app [here]([https://quizzapp.vercel.app/](https://vercel.com/sais-projects-fa016d87/quizz-app)) (if hosted).
 
 ## Project Structure
 ```
